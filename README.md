@@ -14,4 +14,6 @@ this is my new project
 .main-content form .butt:hover, .main-content form .butt1:hover {
     background-color: rgb(248, 98, 98);
     color: #333;
+    color: #444;
+    
 
